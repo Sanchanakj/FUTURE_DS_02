@@ -3,7 +3,7 @@
 ## 📊 Data Science & Analytics – Task 2 (2026)
 By Future Interns
 
-## 🔍 About the Project
+## About the Project
 This project analyzes customer retention and churn behavior using real-world
 subscription data. The objective is to identify why customers leave and what
 strategies can improve long-term customer retention.
