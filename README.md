@@ -1,6 +1,6 @@
 # Customer Retention & Churn Analysis
 
-## 📊 Data Science & Analytics – Task 2 (2026)
+## Data Science & Analytics – Task 2 (2026)
 By Future Interns
 
 ## About the Project
